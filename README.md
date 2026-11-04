@@ -4,10 +4,10 @@
 
 ## التحميل
 
-- **برنامج التثبيت (آخر نسخة):** [UmbrellaClub-Setup.exe](https://github.com/KhadidjaDari/UmbrellaClub-telechargement/releases/latest/download/UmbrellaClub-Setup.exe)
-- **دليل الاستخدام (PDF):** [Guide-UmbrellaClub-AR.pdf](https://github.com/KhadidjaDari/UmbrellaClub-telechargement/releases/latest/download/Guide-UmbrellaClub-AR.pdf)
+- **برنامج التثبيت (آخر نسخة):** [UmbrellaClub-Setup.exe](https://github.com/UmbrellaClick/UmbrellaClub-telechargement/releases/latest/download/UmbrellaClub-Setup.exe)
+- **دليل الاستخدام (PDF):** [Guide-UmbrellaClub-AR.pdf](https://github.com/UmbrellaClick/UmbrellaClub-telechargement/releases/latest/download/Guide-UmbrellaClub-AR.pdf)
 
-كل النسخ السابقة في صفحة [الإصدارات](https://github.com/KhadidjaDari/UmbrellaClub-telechargement/releases).
+كل النسخ السابقة في صفحة [الإصدارات](https://github.com/UmbrellaClick/UmbrellaClub-telechargement/releases).
 
 ## التثبيت
 
